@@ -3,6 +3,6 @@
 In first commit I added:
 
 - the new data I found online
-- a variable that let's you specify when to start to plot
+- variable xmin that let's you specify when to start to plot
 - a pie chart function (used in the pareto optimal, that let's you compare with cost optimized and co2 optimized)
-- 
+- a new constraint (search for "self reliance") (It's prob not the best way to implement it, just wanted to try what the results would look like)
